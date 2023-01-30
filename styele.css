@@ -1,0 +1,118 @@
+.img1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1366px;
+height: 662px;
+}
+.span1{
+    position: absolute;
+width: 84px;
+height: 13px;
+
+
+font-family: "poppins";
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+font-style: normal;
+text-align: left;
+color: #ffffff;
+margin-left: 139px;
+margin-top: 24px;
+}
+.span2{
+    position: absolute;
+width: 37px;
+height: 11px;
+margin-top: 24px;
+margin-left: 664px;
+font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+}
+.span3{
+    position: absolute;
+    width: 37px;
+    height: 11px;
+    font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-top: 24px;
+margin-left: 750px;
+
+}
+.img2{
+    position: absolute;
+width: 7.9px;
+height: 4.5px;
+margin-left: 798px;
+border-color: #ffffff;
+border-width: 1px;
+margin-top: 28px;
+}
+.span4{
+    position: absolute;
+    width: 37px;
+    height: 11px;
+    font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-top: 24px;
+margin-left: 858px;
+} 
+.span5{
+    position: absolute;
+    
+    height: 11px;
+    font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-top: 24px;
+margin-left: 981px;
+
+}
+.span6{
+    position: absolute;
+    
+    height: 11px;
+    font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-top: 24px;
+margin-left: 1089px;
+}
+.span7{
+    position: absolute;
+    
+    height: 11px;
+    font-family: "poppins";
+font-size: 12px;
+font-weight: 500;
+line-height: 12px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+margin-top: 24px;
+margin-left: 1174px;
+}
